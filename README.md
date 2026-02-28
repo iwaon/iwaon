@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @iwaon living in Yokohama, Japan.
-- 👀 I’m interested in golang.
-- 🌱 I’m currently learning golang.
-- 💞️ I’m looking to collaborate on golang programing.
-- 📫 How to reach me is via GitHub.
+- Hi, I’m @iwaon living in Japan.
+- I’m a golang developer.
 
 <!---
 iwaon/iwaon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
